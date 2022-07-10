@@ -1,0 +1,95 @@
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Password_Generator\Gerador de Senhas\bin\Debug\Gerador de Senhas.exe.config
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Password_Generator\Gerador de Senhas\bin\Debug\Gerador de Senhas.exe
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Password_Generator\Gerador de Senhas\bin\Debug\Gerador de Senhas.pdb
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Password_Generator\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Antes_gerador.resources
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Password_Generator\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Gerador.resources
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Password_Generator\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Menu.resources
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Password_Generator\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Properties.Resources.resources
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Password_Generator\Gerador de Senhas\obj\Debug\Gerador de Senhas.csproj.GenerateResource.cache
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Password_Generator\Gerador de Senhas\obj\Debug\Gerador de Senhas.csproj.CoreCompileInputs.cache
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Password_Generator\Gerador de Senhas\obj\Debug\Gerador de Senhas.exe
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Password_Generator\Gerador de Senhas\obj\Debug\Gerador de Senhas.pdb
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Password_Generator\Gerador de Senhas\obj\Debug\Gerador de Senhas.csprojAssemblyReference.cache
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Password_Generator\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Sobre.resources
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Password_Generator\Gerador de Senhas\bin\Debug\Gerador de Senhas.exe.config
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Password_Generator\Gerador de Senhas\bin\Debug\Gerador de Senhas.exe
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Password_Generator\Gerador de Senhas\bin\Debug\Gerador de Senhas.pdb
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Password_Generator\Gerador de Senhas\obj\Debug\Gerador de Senhas.csprojAssemblyReference.cache
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Password_Generator\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Antes_gerador.resources
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Password_Generator\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Gerador.resources
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Password_Generator\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Menu.resources
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Password_Generator\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Properties.Resources.resources
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Password_Generator\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Sobre.resources
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Password_Generator\Gerador de Senhas\obj\Debug\Gerador de Senhas.csproj.GenerateResource.cache
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Password_Generator\Gerador de Senhas\obj\Debug\Gerador de Senhas.exe
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Password_Generator\Gerador de Senhas\obj\Debug\Gerador de Senhas.pdb
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Password_Generator\Gerador de Senhas\obj\Debug\Sorveteria.Sorveteria.resources
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\Teste\Password_Generator\Gerador de Senhas\obj\Debug\Gerador de Senhas.csprojAssemblyReference.cache
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\Teste\Password_Generator\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Antes_gerador.resources
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\Teste\Password_Generator\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Gerador.resources
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\Teste\Password_Generator\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Menu.resources
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\Teste\Password_Generator\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Properties.Resources.resources
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\Teste\Password_Generator\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Sobre.resources
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\Teste\Password_Generator\Gerador de Senhas\obj\Debug\Gerador de Senhas.csproj.GenerateResource.cache
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\Teste\Password_Generator\Gerador de Senhas\obj\Debug\Gerador de Senhas.csproj.CoreCompileInputs.cache
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\Teste\Password_Generator\Gerador de Senhas\bin\Debug\Gerador de Senhas.exe.config
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\Teste\Password_Generator\Gerador de Senhas\bin\Debug\Gerador de Senhas.exe
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\Teste\Password_Generator\Gerador de Senhas\bin\Debug\Gerador de Senhas.pdb
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\Teste\Password_Generator\Gerador de Senhas\obj\Debug\Gerador de Senhas.exe
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\Teste\Password_Generator\Gerador de Senhas\obj\Debug\Gerador de Senhas.pdb
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\Teste\Password_Generator\Gerador de Senhas\obj\Debug\Sorveteria.Sorveteria.resources
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C# (ok)\Bang da Bruna\Password_Generator\Gerador de Senhas\bin\Debug\Gerador de Senhas.exe.config
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C# (ok)\Bang da Bruna\Password_Generator\Gerador de Senhas\bin\Debug\Gerador de Senhas.exe
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C# (ok)\Bang da Bruna\Password_Generator\Gerador de Senhas\bin\Debug\Gerador de Senhas.pdb
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C# (ok)\Bang da Bruna\Password_Generator\Gerador de Senhas\obj\Debug\Gerador de Senhas.csprojAssemblyReference.cache
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C# (ok)\Bang da Bruna\Password_Generator\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Antes_gerador.resources
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C# (ok)\Bang da Bruna\Password_Generator\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Gerador.resources
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C# (ok)\Bang da Bruna\Password_Generator\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Menu.resources
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C# (ok)\Bang da Bruna\Password_Generator\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Properties.Resources.resources
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C# (ok)\Bang da Bruna\Password_Generator\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Sobre.resources
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C# (ok)\Bang da Bruna\Password_Generator\Gerador de Senhas\obj\Debug\Sorveteria.Sorveteria.resources
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C# (ok)\Bang da Bruna\Password_Generator\Gerador de Senhas\obj\Debug\Gerador de Senhas.csproj.GenerateResource.cache
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C# (ok)\Bang da Bruna\Password_Generator\Gerador de Senhas\obj\Debug\Gerador de Senhas.exe
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C# (ok)\Bang da Bruna\Password_Generator\Gerador de Senhas\obj\Debug\Gerador de Senhas.pdb
+G:\Cesar (pasta geral)\CTI\2º Ano\ATIVIDADES À DISTÂNCIA (pelo Coronavirus)\Fase 2\C# (ok)\Password_Generator\Gerador de Senhas\bin\Debug\Gerador de Senhas.exe.config
+G:\Cesar (pasta geral)\CTI\2º Ano\ATIVIDADES À DISTÂNCIA (pelo Coronavirus)\Fase 2\C# (ok)\Password_Generator\Gerador de Senhas\bin\Debug\Gerador de Senhas.exe
+G:\Cesar (pasta geral)\CTI\2º Ano\ATIVIDADES À DISTÂNCIA (pelo Coronavirus)\Fase 2\C# (ok)\Password_Generator\Gerador de Senhas\bin\Debug\Gerador de Senhas.pdb
+G:\Cesar (pasta geral)\CTI\2º Ano\ATIVIDADES À DISTÂNCIA (pelo Coronavirus)\Fase 2\C# (ok)\Password_Generator\Gerador de Senhas\obj\Debug\Gerador de Senhas.csprojAssemblyReference.cache
+G:\Cesar (pasta geral)\CTI\2º Ano\ATIVIDADES À DISTÂNCIA (pelo Coronavirus)\Fase 2\C# (ok)\Password_Generator\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Antes_gerador.resources
+G:\Cesar (pasta geral)\CTI\2º Ano\ATIVIDADES À DISTÂNCIA (pelo Coronavirus)\Fase 2\C# (ok)\Password_Generator\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Gerador.resources
+G:\Cesar (pasta geral)\CTI\2º Ano\ATIVIDADES À DISTÂNCIA (pelo Coronavirus)\Fase 2\C# (ok)\Password_Generator\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Menu.resources
+G:\Cesar (pasta geral)\CTI\2º Ano\ATIVIDADES À DISTÂNCIA (pelo Coronavirus)\Fase 2\C# (ok)\Password_Generator\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Properties.Resources.resources
+G:\Cesar (pasta geral)\CTI\2º Ano\ATIVIDADES À DISTÂNCIA (pelo Coronavirus)\Fase 2\C# (ok)\Password_Generator\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Sobre.resources
+G:\Cesar (pasta geral)\CTI\2º Ano\ATIVIDADES À DISTÂNCIA (pelo Coronavirus)\Fase 2\C# (ok)\Password_Generator\Gerador de Senhas\obj\Debug\Sorveteria.Sorveteria.resources
+G:\Cesar (pasta geral)\CTI\2º Ano\ATIVIDADES À DISTÂNCIA (pelo Coronavirus)\Fase 2\C# (ok)\Password_Generator\Gerador de Senhas\obj\Debug\Gerador de Senhas.csproj.GenerateResource.cache
+G:\Cesar (pasta geral)\CTI\2º Ano\ATIVIDADES À DISTÂNCIA (pelo Coronavirus)\Fase 2\C# (ok)\Password_Generator\Gerador de Senhas\obj\Debug\Gerador de Senhas.exe
+G:\Cesar (pasta geral)\CTI\2º Ano\ATIVIDADES À DISTÂNCIA (pelo Coronavirus)\Fase 2\C# (ok)\Password_Generator\Gerador de Senhas\obj\Debug\Gerador de Senhas.pdb
+C:\Users\cesin\Desktop\Aleatório - programas\C#\Password_Generator\Gerador de Senhas\bin\Debug\Gerador de Senhas.exe.config
+C:\Users\cesin\Desktop\Aleatório - programas\C#\Password_Generator\Gerador de Senhas\bin\Debug\Gerador de Senhas.exe
+C:\Users\cesin\Desktop\Aleatório - programas\C#\Password_Generator\Gerador de Senhas\bin\Debug\Gerador de Senhas.pdb
+C:\Users\cesin\Desktop\Aleatório - programas\C#\Password_Generator\Gerador de Senhas\obj\Debug\Gerador de Senhas.csprojAssemblyReference.cache
+C:\Users\cesin\Desktop\Aleatório - programas\C#\Password_Generator\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Antes_gerador.resources
+C:\Users\cesin\Desktop\Aleatório - programas\C#\Password_Generator\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Gerador.resources
+C:\Users\cesin\Desktop\Aleatório - programas\C#\Password_Generator\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Menu.resources
+C:\Users\cesin\Desktop\Aleatório - programas\C#\Password_Generator\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Properties.Resources.resources
+C:\Users\cesin\Desktop\Aleatório - programas\C#\Password_Generator\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Sobre.resources
+C:\Users\cesin\Desktop\Aleatório - programas\C#\Password_Generator\Gerador de Senhas\obj\Debug\Sorveteria.Sorveteria.resources
+C:\Users\cesin\Desktop\Aleatório - programas\C#\Password_Generator\Gerador de Senhas\obj\Debug\Gerador de Senhas.csproj.GenerateResource.cache
+C:\Users\cesin\Desktop\Aleatório - programas\C#\Password_Generator\Gerador de Senhas\obj\Debug\Gerador de Senhas.csproj.CoreCompileInputs.cache
+C:\Users\cesin\Desktop\Aleatório - programas\C#\Password_Generator\Gerador de Senhas\obj\Debug\Gerador de Senhas.exe
+C:\Users\cesin\Desktop\Aleatório - programas\C#\Password_Generator\Gerador de Senhas\obj\Debug\Gerador de Senhas.pdb
+C:\Users\cesin\Desktop\PenDrive\Cesar (pasta geral)\PROJETOS FINALIZADOS meu\Password_Generator C#\Gerador de Senhas\bin\Debug\Gerador de Senhas.exe.config
+C:\Users\cesin\Desktop\PenDrive\Cesar (pasta geral)\PROJETOS FINALIZADOS meu\Password_Generator C#\Gerador de Senhas\bin\Debug\Gerador de Senhas.exe
+C:\Users\cesin\Desktop\PenDrive\Cesar (pasta geral)\PROJETOS FINALIZADOS meu\Password_Generator C#\Gerador de Senhas\bin\Debug\Gerador de Senhas.pdb
+C:\Users\cesin\Desktop\PenDrive\Cesar (pasta geral)\PROJETOS FINALIZADOS meu\Password_Generator C#\Gerador de Senhas\obj\Debug\Gerador de Senhas.csproj.AssemblyReference.cache
+C:\Users\cesin\Desktop\PenDrive\Cesar (pasta geral)\PROJETOS FINALIZADOS meu\Password_Generator C#\Gerador de Senhas\obj\Debug\Gerador de Senhas.csproj.SuggestedBindingRedirects.cache
+C:\Users\cesin\Desktop\PenDrive\Cesar (pasta geral)\PROJETOS FINALIZADOS meu\Password_Generator C#\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Antes_gerador.resources
+C:\Users\cesin\Desktop\PenDrive\Cesar (pasta geral)\PROJETOS FINALIZADOS meu\Password_Generator C#\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Gerador.resources
+C:\Users\cesin\Desktop\PenDrive\Cesar (pasta geral)\PROJETOS FINALIZADOS meu\Password_Generator C#\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Menu.resources
+C:\Users\cesin\Desktop\PenDrive\Cesar (pasta geral)\PROJETOS FINALIZADOS meu\Password_Generator C#\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Properties.Resources.resources
+C:\Users\cesin\Desktop\PenDrive\Cesar (pasta geral)\PROJETOS FINALIZADOS meu\Password_Generator C#\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Sobre.resources
+C:\Users\cesin\Desktop\PenDrive\Cesar (pasta geral)\PROJETOS FINALIZADOS meu\Password_Generator C#\Gerador de Senhas\obj\Debug\Sorveteria.Sorveteria.resources
+C:\Users\cesin\Desktop\PenDrive\Cesar (pasta geral)\PROJETOS FINALIZADOS meu\Password_Generator C#\Gerador de Senhas\obj\Debug\Gerador de Senhas.csproj.GenerateResource.cache
+C:\Users\cesin\Desktop\PenDrive\Cesar (pasta geral)\PROJETOS FINALIZADOS meu\Password_Generator C#\Gerador de Senhas\obj\Debug\Gerador de Senhas.csproj.CoreCompileInputs.cache
+C:\Users\cesin\Desktop\PenDrive\Cesar (pasta geral)\PROJETOS FINALIZADOS meu\Password_Generator C#\Gerador de Senhas\obj\Debug\Gerador de Senhas.exe
+C:\Users\cesin\Desktop\PenDrive\Cesar (pasta geral)\PROJETOS FINALIZADOS meu\Password_Generator C#\Gerador de Senhas\obj\Debug\Gerador de Senhas.pdb
